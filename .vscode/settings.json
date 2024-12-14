@@ -8,9 +8,9 @@
   "editor.formatOnSave": true,
   "eslint.options": {
     "cache": true,
-    "extensions": [".html", ".js", ".jsx", ".ts", ".tsx"],
     "fix": true
   },
+  "eslint.useFlatConfig": false,
   "eslint.validate": ["html", "javascript", "javascriptreact", "typescript", "typescriptreact"],
   "files.autoSave": "afterDelay",
   "files.autoSaveDelay": 1000,
