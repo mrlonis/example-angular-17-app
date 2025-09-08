@@ -76,7 +76,7 @@
     "lint-staged": "^16",
     "ng-lint-staged": "^12",
     "prettier": "^3",
-    "start-server-and-test": "^2.0.13",
+    "start-server-and-test": "^2.1.0",
     "typescript": "~5.4"
   },
   "engines": {
